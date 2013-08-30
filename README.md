@@ -7,6 +7,7 @@ Project Page http://www.gamedev.ru/projects/forum/?id=137421
 Developed Using C++ and SMFL Library.
 
 == Table Of Content ==
+
 1. Controls
 2. Game Features
 3. Weapon Types
@@ -15,32 +16,38 @@ Developed Using C++ and SMFL Library.
 6. Contact
 
 [1] == Controls ==
-Up/Right/Down/Left to move
-Space to shoot
-P for pause
+
+* Up/Right/Down/Left to move
+* Space to shoot
+* P for pause
 
 [2] == Game Features ==
+
 There are 3 types of bonuses:
+
 1. Weapon upgare - upgardes your weapon one level
 2. Kill all enemies - a bomb the kills all enemies
 3. One extra life - Adds one extra life
+4. 
 Be aware, enemies can also take the bonuses.
 
 [3] == Weapon Types ==
-There are 3 weapon types:
+
 1. Nap Bullet - Able to destroy walls only
 2. Comet - Faster than nap bullet, able to destroy glass walls as well
 3. Laser - Fastest among the 3. Can destroy multiple obstacels
 
 [4] == Known Bugs ==
-[MAJOR] - Enemies spawn in random places
-[MAJOR] - Enemies are stupid
+
+* [MAJOR] - Enemies spawn in random places
+* [MAJOR] - Enemies are stupid
 
 [5] == Credits ==
-Programmer: Dmitry skwee Kudryavtsev
-Background music: Megaminute by Akcija
-Sound Effects: SoundBible.com
-Special Thanks: Unknown author sprites, GameDev.ru beta testers
+
+* Programmer: Dmitry skwee Kudryavtsev
+* Background music: Megaminute by Akcija
+* Sound Effects: SoundBible.com
+* Special Thanks: Unknown author sprites, GameDev.ru beta testers
 
 
 Licensed under MIT license
